@@ -1,4 +1,5 @@
-# Color Conversion
+<H1 align="center">Color Conversion</h1>
+
 ## AIM
 To perform the color conversion between RGB, BGR, HSV, and YCbCr color models.
 ## Software Required:
@@ -73,15 +74,15 @@ cv2.destroyAllWindows()
 ## Output:
 
 ### i) BGR and RGB to HSV and GRAY
-![inp](1.png)
-### ii) HSV to RGB and BGR
-![inp](2.png)
-### iii) RGB and BGR to YCrCb
-![inp](3.png)
-### iv) Split and merge RGB Image
-![inp](4.png)
-### v) Split and merge HSV Image
 ![inp](5.png)
+### ii) HSV to RGB and BGR
+![inp](6.png)
+### iii) RGB and BGR to YCrCb
+![inp](7.png)
+### iv) Split and merge RGB Image
+![inp](8.png)
+### v) Split and merge HSV Image
+![inp](9.png)
 
 ## Result:
 Thus the color conversion was performed between RGB, HSV and YCbCr color models.
